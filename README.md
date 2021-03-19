@@ -1,5 +1,4 @@
 # SpaceshipMaze
-From a course at university in the Unity engine.
-The game is a simple 3d first person shooter game with a space theme.
+This is a first person shooter game I made for a course at the university.
 
 The game can be played at https://knubbilito.itch.io/spazeship-maze
